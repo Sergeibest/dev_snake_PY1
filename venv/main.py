@@ -20,4 +20,4 @@ while control.flag_game:
         snake.moove(control)
     var_speed += 1
     pygame.display.flip()
-    ''''тест-эту дичь надо убрать'''
+    
